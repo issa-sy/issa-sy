@@ -62,6 +62,14 @@ My goal is to become an **expert in numerical simulation for nuclear materials**
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=issa-sy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4da6ff&line=4da6ff&point=ff6b6b&area=true&area_color=4da6ff" width="95%"/>
+</div>
+
+---
+
 ## 📫 Contact
 
 * 📧 Feel free to reach out via GitHub
