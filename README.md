@@ -28,6 +28,7 @@ I enjoy combining **physics**, **numerical modeling**, and **scientific computin
 * C++ (scientific computing)
 * Xolotl (Cluster Dynamics)
 * LAMMPS (MD simulations)
+* HPC (slurm)
 * FLUKA (learning)
 
 **Scientific Skills**
