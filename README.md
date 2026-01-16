@@ -25,7 +25,6 @@ I enjoy combining **physics**, **numerical modeling**, and **scientific computin
 **Programming & Simulation**
 
 * Python (NumPy, Matplotlib)
-* C++ (scientific computing)
 * Xolotl (Cluster Dynamics)
 * LAMMPS (MD simulations)
 * HPC (slurm)
