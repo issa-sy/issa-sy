@@ -2,7 +2,7 @@
 
 ## 👨‍🔬 About Me
 
-I am a **PhD student at ASNR** with a strong focus on **nuclear materials**, **cluster dynamics**, and **multiscale simulations**. My work mainly revolves around understanding **defect evolution**, **fission gas behavior**, and **bubble formation** in **UO₂** under irradiation.
+I am a **PhD student at ASNR** with a strong focus on **nuclear materials**, **cluster dynamics**, and **multiscale simulations**. My work mainly revolves around understanding **defect evolution**, **fission gas behavior**, and **bubble formation** in **UO₂**.
 
 I enjoy combining **physics**, **numerical modeling**, and **scientific computing** to study complex materials phenomena relevant to **nuclear energy**.
 
